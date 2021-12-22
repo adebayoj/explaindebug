@@ -1,0 +1,9 @@
+numpy
+matplotlib
+tensorflow
+keras==2.2.4
+jupyter
+seaborn
+pandas
+tensorflow==1.8.0
+Pillow

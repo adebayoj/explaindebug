@@ -1,0 +1,7 @@
+userstudy/data/dogspeciesdata/
+userstudy/data/dogspeciesdata_randlabels/
+userstudy/data/dogspeciesdata_spurious/
+userstudy/data/oxfordfiles/
+userstudy/data/stanfordfiles/
+.ipynb_checkpoints/
+userstudy/models/
