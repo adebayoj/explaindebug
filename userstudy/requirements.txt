@@ -1,9 +1,10 @@
 numpy
 matplotlib
 tensorflow
-keras==2.2.4
+keras==2.2.5
 jupyter
 seaborn
 pandas
 tensorflow==1.8.0
 Pillow
+h5py==2.10.0 

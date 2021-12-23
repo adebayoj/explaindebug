@@ -2,7 +2,7 @@ User Study Replication
 =====================
 This folder contains all the details on how to replicate the user study.
 
-<img src="https://raw.githubusercontent.com/adebayoj/explaindebug/master/doc/fig/normal_model_beagle.pdf" width="700">
+<img src="https://raw.githubusercontent.com/adebayoj/explaindebug/master/doc/fig/normal_model_beagle.jpg" width="700">
 
 ## Instructions
 The following instructions will walk you through how to get data, train the model, and obtain the necessary feature attributions.
