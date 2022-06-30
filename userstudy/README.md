@@ -36,3 +36,6 @@ python train_resnet50.py --data ../data/dogspeciesdata/ --savemodelpath ../model
 ```
 
 The above command trains a resnet-50 model on the dogspecies data, saves the weights to the specified path, and tags that this model is a 'normal' model. If the model if to be trained on data with spurious signals, then the --condition tag can be changed to spurious. Similarly for random labels.
+
+### User Study Instructions and Survey
+We conducted the user study in qualtrics. A copy of the first 25 pages of user study is provided in the [top level doc folder](https://github.com/adebayoj/explaindebug/blob/main/doc/end_to_end_survey-1-25.pdf).
